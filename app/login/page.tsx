@@ -61,7 +61,7 @@ export default function LoginPage() {
             <Card>
               <CardHeader>
                 <CardTitle>Account Login</CardTitle>
-                <CardDescription>To login entre anything in user and password</CardDescription>
+                <CardDescription>To login enter anything in user and password</CardDescription>
               </CardHeader>
               <form onSubmit={handleLogin}>
                 <CardContent className="space-y-4">
@@ -84,7 +84,7 @@ export default function LoginPage() {
                     <Input
                       id="password"
                       type="password"
-                      placeholder="Entre anything"
+                      placeholder="Enter anything"
                       value={password}
                       onChange={(e) => setPassword(e.target.value)}
                     />
