@@ -129,7 +129,7 @@ export default function LoginPage() {
         </Tabs>
 
         <div className="mt-8 text-center text-sm text-muted-foreground">
-          <p>© 2023 Gulmohur High School. All rights reserved.</p>
+          <p>© 2025 Gulmohur High School. All rights reserved.</p>
         </div>
       </div>
 
