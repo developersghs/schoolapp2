@@ -111,7 +111,7 @@ export default function ProfilePage() {
                         </div>
                         <div>
                           <div className="text-xs text-muted-foreground">Phone</div>
-                          <div>+91 7295950088</div>
+                          <div>+91 9875678919</div>
                         </div>
                       </div>
                     </div>

@@ -10,7 +10,7 @@ interface SchoolHeaderProps {
 }
 
 export function SchoolHeader({
-  title = "Gulmohur High School",
+  title = "Gulmohur School",
   showLogout = true,
   showNotifications = true,
 }: SchoolHeaderProps) {
@@ -20,7 +20,7 @@ export function SchoolHeader({
         <Link href="/" className="flex items-center space-x-2">
           <Image
             src="/icons/school-logo.png"
-            alt="Gulmohur High School"
+            alt="Gulmohur School"
             width={32}
             height={32}
             className="h-8 w-8 rounded-full"
