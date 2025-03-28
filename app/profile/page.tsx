@@ -54,8 +54,8 @@ export default function ProfilePage() {
                   <User className="h-8 w-8" />
                 </div>
                 <div className="flex-1">
-                  <h2 className="font-bold text-xl">Akshat Bhardwaj</h2>
-                  <p className="text-sm text-muted-foreground">Class 12-A | Roll No: 4</p>
+                  <h2 className="font-bold text-xl"> Babar Azam</h2>
+                  <p className="text-sm text-muted-foreground">Class 11-A | Roll No: 1</p>
                 </div>
                 <Button variant="ghost" size="icon">
                   <Edit className="h-5 w-5" />
@@ -81,19 +81,19 @@ export default function ProfilePage() {
                     <div className="grid grid-cols-2 gap-4">
                       <div>
                         <div className="text-sm font-medium">Full Name</div>
-                        <div className="mt-1">Akshat Bhardwaj</div>
+                        <div className="mt-1">Babar Azam</div>
                       </div>
                       <div>
                         <div className="text-sm font-medium">Date of Birth</div>
-                        <div className="mt-1">21 Nov 2006</div>
+                        <div className="mt-1">21 Nov 2024</div>
                       </div>
                       <div>
                         <div className="text-sm font-medium">Gender</div>
-                        <div className="mt-1">Male</div>
+                        <div className="mt-1">Female</div>
                       </div>
                       <div>
                         <div className="text-sm font-medium">Blood Group</div>
-                        <div className="mt-1">B+</div>
+                        <div className="mt-1">D+</div>
                       </div>
                     </div>
 
@@ -121,11 +121,11 @@ export default function ProfilePage() {
                       <div className="grid grid-cols-2 gap-4 mt-1">
                         <div>
                           <div className="text-xs text-muted-foreground">Father's Name</div>
-                          <div>Arvind Kumar</div>
+                          <div>Virat Kohli</div>
                         </div>
                         <div>
                           <div className="text-xs text-muted-foreground">Mother's Name</div>
-                          <div>Puja</div>
+                          <div>Mamata Banerjee</div>
                         </div>
                         <div>
                           <div className="text-xs text-muted-foreground">Parent's Email</div>
@@ -133,7 +133,7 @@ export default function ProfilePage() {
                         </div>
                         <div>
                           <div className="text-xs text-muted-foreground">Parent's Phone</div>
-                          <div>+91 9876543210</div>
+                          <div>+91 9876518742</div>
                         </div>
                       </div>
                     </div>

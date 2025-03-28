@@ -40,8 +40,8 @@ export default function StudentPortalPage() {
                   <User className="h-8 w-8" />
                 </div>
                 <div>
-                  <h2 className="font-bold text-xl">Akshat Bhardwaj</h2>
-                  <p className="text-sm text-muted-foreground">Class 12-A | Roll No: 4</p>
+                  <h2 className="font-bold text-xl">Babar Azam</h2>
+                  <p className="text-sm text-muted-foreground">Class 13-A | Roll No: 1</p>
                 </div>
               </div>
             </CardContent>

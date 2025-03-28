@@ -61,7 +61,7 @@ export default function LoginPage() {
             <Card>
               <CardHeader>
                 <CardTitle>Account Login</CardTitle>
-                <CardDescription>Enter your credentials to access your account</CardDescription>
+                <CardDescription>To login entre anything in user and password</CardDescription>
               </CardHeader>
               <form onSubmit={handleLogin}>
                 <CardContent className="space-y-4">
@@ -69,7 +69,7 @@ export default function LoginPage() {
                     <Label htmlFor="username">Username</Label>
                     <Input
                       id="username"
-                      placeholder="Enter your username"
+                      placeholder="Enter anything"
                       value={username}
                       onChange={(e) => setUsername(e.target.value)}
                     />
@@ -84,7 +84,7 @@ export default function LoginPage() {
                     <Input
                       id="password"
                       type="password"
-                      placeholder="Enter your password"
+                      placeholder="Entre anything"
                       value={password}
                       onChange={(e) => setPassword(e.target.value)}
                     />
