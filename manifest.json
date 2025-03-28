@@ -1,0 +1,23 @@
+{
+  "name": "Gulmohur Mobile App",
+  "short_name": "Gulmohur",
+  "start_url": "/login",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "App for Gulmohur School",
+  "icons": [
+    {
+      "src": "/icons/school-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/school-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
