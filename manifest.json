@@ -3,7 +3,7 @@
   "short_name": "Gulmohur",
   "start_url": "/login",
   "scope": "/",
-  "display": "fullscreen",
+  "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "description": "App for Gulmohur School",
